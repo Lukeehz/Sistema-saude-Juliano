@@ -1,4 +1,4 @@
-Especificações do Projeto
+# Especificações do Projeto
 
 A aplicação tem como objetivo facilitar a gestão das máquinas nas unidades vinculadas à Secretaria Municipal de Saúde de Contagem-MG. Destina-se especificamente aos gerentes responsáveis por essas unidades, proporcionando ferramentas para um controle mais eficiente e organizado dos recursos técnicos disponíveis.
 
