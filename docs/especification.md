@@ -14,3 +14,29 @@ Back-End: Node.js usando a biblioteca Express.js
 
 Banco de dados: MySQL
 
+### Requisitos Funcionais
+
+Os requisitos serão separados em niveis de prioridade Alto, Médio e baixo
+
+|ID    | Descrição do Requisito  | Prioridade | Responsável |
+|------|-----------------------------------------|----| ----|
+|RF-001| |  |  |
+|RF-002| |  |  | 
+|RF-003| |  |  |
+|RF-004| |  |  |
+|RF-005| |  |  |
+|RF-006| |  |  |
+|RF-007| |  |  |
+
+
+### Requisitos não Funcionais
+
+|ID     | Descrição do Requisito  |Prioridade |
+|-------|-------------------------|----|
+|RNF-001| |  |
+|RNF-002| |  |
+|RNF-003| |  |
+|RNF-004| |  |
+|RNF-005| |  |
+|RNF-006| |  |
+
